@@ -1,5 +1,5 @@
 # minecraft-ecom-client
-Ecommerce Web Application (https://github.com/ayush03dev/minecraft-ecom/tree/master) Client for Minecraft servers.
+Ecommerce Web Application (https://github.com/ayush03dev/minecraft-ecom) Client for Minecraft servers.
 
 # Installation
 Installed the jar file inside plugins folder of the Minecraft server
