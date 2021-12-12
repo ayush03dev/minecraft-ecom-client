@@ -1,0 +1,9 @@
+name: MinecraftEcomClient
+version: 1.0
+api-version: 1.16
+main: Main
+
+commands:
+  csocket:
+    usae: /csocket status|connect
+    description: Main Command
